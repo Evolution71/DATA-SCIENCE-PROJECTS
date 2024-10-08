@@ -7,5 +7,11 @@ seek to identify trends, make data driven recommendations and gain a deeper unde
 The primary dataset used for this analysis is the "Sales_Data.cvs" file,containing detailed
 information about each sales made by the company.
 
-## Tools
--Power BI /Data Cleaning processes,Data Analysis and Dax calculation,Creating of Dashboard report.
+### Tools
+-Power BI /Data Cleaning processes,Data Analysis and Dax calculation,Creating of Dashboard report.[Download Here](https://microsoft.com)
+
+### Data Cleaning/Preparation
+In the initial data prepration phase,we performed the following tasks
+- Data loading and inspection
+- Handling missing values
+- Data Cleaning and formatting
